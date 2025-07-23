@@ -1,5 +1,6 @@
 ---
+title: Archives
 layout: archives
-icon: fas fa-archive
-order: 3
 ---
+
+这里会展示所有的文章归档。

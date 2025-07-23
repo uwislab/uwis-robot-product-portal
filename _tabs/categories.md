@@ -1,5 +1,6 @@
 ---
+title: Categories
 layout: categories
-icon: fas fa-stream
-order: 1
 ---
+
+这里会展示所有的文章分类。

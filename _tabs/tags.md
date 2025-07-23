@@ -1,5 +1,5 @@
 ---
-layout: tags
-icon: fas fa-tags
-order: 2
+title: Tags
 ---
+
+这里会展示所有的文章标签。
